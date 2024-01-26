@@ -3,6 +3,10 @@ body {
     font: normal 15pt Arial;
 }
 
+h1 {
+    text-shadow: 3px 3px 5px rgba(0, 0, 0, 0.253);
+}
+
 header {
     color: white;
     text-align: center;
@@ -15,6 +19,11 @@ section {
     width: 500px;
     margin: auto;
     box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.253);
+}
+
+div {
+    text-align: center;
+    padding: 1px;
 }
 
 footer {
